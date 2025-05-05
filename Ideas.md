@@ -17,3 +17,7 @@ there will be a specific skill in the gish tree or the ranger tree for ranged th
 you will be able to open a spells tab that allows you to stop the time with a time limit until you place your spell.
 
 have classes, stereotypes (like gish), and suclasses (specific to each punk.)
+
+More ideas
+- Chart of opposing / linked punks
+- Repeated number (e.g. 8 classes, 8 subclasses, etc.)

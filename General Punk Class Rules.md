@@ -1,0 +1,8 @@
+- Aesthetic
+	- Colour palette
+	- Shapes
+	- Architecture
+- Time period
+- Source
+	- AtomPunk -> Physics
+	- Glass -> High Chemistry
