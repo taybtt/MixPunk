@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/PunkTemplate.md",
+                "file": "Big Abilities Idea List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PunkTemplate"
+              "title": "Big Abilities Idea List"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,15 +182,34 @@
   },
   "active": "b616ef91e70c6485",
   "lastOpenFiles": [
-    "General Punk Class Rules.md",
+    "Terminology.md",
+    "Punks/Spacepunk.md",
+    "Punks/RadiantPunk or AtomPunk.md",
+    "General Abilities.md",
+    "Game Mechanics/NPCs.md",
+    "Game Mechanics/Loot System.md",
+    "Game Mechanics",
+    "Enemies/Enemy Rules.md",
+    "Enemies",
+    "Discussion & Brainstorm/Discussion Points for the Next Discussion.md",
+    "Discussion & Brainstorm",
+    "Buildings/Shop.md",
+    "Buildings/Library.md",
+    "Buildings",
+    "Punks/GlassPunk/Glass Abilities.md",
+    "Big Abilities Idea List.md",
+    "Punks/SolarPunk/Solar Abilities.md",
+    "Punks/Solarpunk.md",
+    "Punks/SolarPunk",
     "Templates/PunkTemplate.md",
+    "Punks/GlassPunk/GlassPunk.md",
+    "Punks/GlassPunk",
+    "General Punk Class Rules.md",
     "Ideas.md",
     "Punks/DieselPunk.md",
     "Punks/RadiantPunk.md",
     "Punks/BioPunk.md",
-    "Untitled.md",
     "Templates",
-    "Punks/GlassPunk.md",
     "Punks/Atompunk.md"
   ]
 }

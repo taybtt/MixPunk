@@ -15,4 +15,5 @@
 - Alternative energy sources come from other punks, like solar or nuclear
 - Small things like broken glass as caltrops
 
-
+### Glass terms:
+https://en.wikipedia.org/wiki/Glossary_of_glass_art_terms
