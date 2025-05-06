@@ -1,0 +1,4 @@
+- Punk: One of the 8 Punks the game will take place in.
+- Local Punk: the current Punk the player is in.
+- Component: The artifacts that are equipped by the player?
+- Portal: what the player uses to go to another punk

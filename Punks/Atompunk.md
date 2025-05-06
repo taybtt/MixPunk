@@ -1,1 +1,0 @@
-High physics, ray guns, time travel, gravity, stars etc

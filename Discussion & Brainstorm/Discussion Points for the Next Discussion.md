@@ -1,0 +1,1 @@
+- Something along the lines of a shop, library, or research institute. Or maybe an NPC for it.

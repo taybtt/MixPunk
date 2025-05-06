@@ -1,0 +1,1 @@
+The different Punks could have different enemy types. One of these enemies could be the police.

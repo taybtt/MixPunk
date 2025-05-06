@@ -8,4 +8,10 @@
 <hr>
 # Source & Themes
 <hr>
+
+<hr>
+# Setting & Terrain
+
+#### Terrain Traps
+<hr>
 # Ideas
